@@ -1,0 +1,1 @@
+# CSCOPE-settings-for-vim
